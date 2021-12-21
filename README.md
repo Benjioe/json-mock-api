@@ -119,7 +119,7 @@ if you want to.
 To load your own middleware, use the `-m` or `--middleware` flags:
 
 ```bash
-json-mock-api --middlware ./middlware-1.js,./middleware-2.js
+json-mock-api --middleware ./middleware-1.js,./middleware-2.js
 ```
 
 The above command will load the files `middleware-1.js` and `middleware-2.js` 
